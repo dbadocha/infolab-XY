@@ -13,7 +13,7 @@ XYstring::~XYstring()
 {
 }
 
-char XYstring::find(ull pos)
+char XYstring::getChar(ull pos)
 {
 	if (iterationsParity(pos))
 		return 'Y';

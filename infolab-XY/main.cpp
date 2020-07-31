@@ -5,7 +5,7 @@
 int main()
 {
 	XYstring str;
-	std::cout << "-1: " << str.find(-1) << "\n";
+	std::cout << "-1: " << str.getChar(-1) << "\n";
 	getchar();
 	return 0;
 }
