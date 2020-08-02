@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "infolab-XY", "infolab-XY\infolab-XY.vcxproj", "{0EB8D1FB-DCA9-4BA2-9026-874740143123}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "infolab-XY test", "infolab-XY test\infolab-XY test.vcxproj", "{D2A69BC7-CB7C-4F6B-9E23-270E94ACE3FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{0EB8D1FB-DCA9-4BA2-9026-874740143123}.Release|x64.Build.0 = Release|x64
 		{0EB8D1FB-DCA9-4BA2-9026-874740143123}.Release|x86.ActiveCfg = Release|Win32
 		{0EB8D1FB-DCA9-4BA2-9026-874740143123}.Release|x86.Build.0 = Release|Win32
+		{D2A69BC7-CB7C-4F6B-9E23-270E94ACE3FA}.Debug|x64.ActiveCfg = Debug|x64
+		{D2A69BC7-CB7C-4F6B-9E23-270E94ACE3FA}.Debug|x64.Build.0 = Debug|x64
+		{D2A69BC7-CB7C-4F6B-9E23-270E94ACE3FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2A69BC7-CB7C-4F6B-9E23-270E94ACE3FA}.Debug|x86.Build.0 = Debug|Win32
+		{D2A69BC7-CB7C-4F6B-9E23-270E94ACE3FA}.Release|x64.ActiveCfg = Release|x64
+		{D2A69BC7-CB7C-4F6B-9E23-270E94ACE3FA}.Release|x64.Build.0 = Release|x64
+		{D2A69BC7-CB7C-4F6B-9E23-270E94ACE3FA}.Release|x86.ActiveCfg = Release|Win32
+		{D2A69BC7-CB7C-4F6B-9E23-270E94ACE3FA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
