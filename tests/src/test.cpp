@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "../infolab-XY/XYstring.h"
+#include "../../infolab-XY/src/XYstring.h"
 
 #include <string>
 
